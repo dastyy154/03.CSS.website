@@ -61,3 +61,7 @@ footer {
     display: flex;
     flex-direction: row-reverse;
   }
+
+  .me {
+    padding-left: 10px;
+  }
