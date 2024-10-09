@@ -48,7 +48,7 @@ footer {
     padding: 20px;
     background: PapayaWhip;
     color: #333;
-    position: relative;
+    position: absolute;
 }
 
 .box {
