@@ -52,3 +52,8 @@ footer {
     background: PapayaWhip;
     color: #333;
 }
+
+.box {
+    display: flex;
+    flex-direction: row-reverse;
+  }
