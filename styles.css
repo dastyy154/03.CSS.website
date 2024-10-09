@@ -44,6 +44,10 @@ section {
     margin: 10px 0;
 }
 
+.intro {
+    text-align: center;
+}
+
 /* Footer styles */
 footer {
     text-align: center;
